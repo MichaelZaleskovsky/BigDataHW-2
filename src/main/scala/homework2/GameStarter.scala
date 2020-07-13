@@ -1,6 +1,6 @@
-package start
+package homework2
 
-import start.services.{GameManager, HeroFactory}
+import homework2.services.{GameManager, HeroFactory}
 
 object GameStarter {
 

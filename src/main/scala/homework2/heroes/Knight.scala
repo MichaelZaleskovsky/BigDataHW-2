@@ -1,7 +1,7 @@
-package start.heroes
+package homework2.heroes
 
-import start.traits.Characters
-import start.implicits.Skills._
+import homework2.traits.Characters
+import homework2.implicits.Skills._
 
 import scala.util.Random
 

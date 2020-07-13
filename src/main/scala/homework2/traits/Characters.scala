@@ -1,4 +1,4 @@
-package start.traits
+package homework2.traits
 
 trait Characters {
   var power: Int

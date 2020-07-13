@@ -1,6 +1,6 @@
-package start.heroes
+package homework2.heroes
 
-import start.traits.Characters
+import homework2.traits.Characters
 
 class Hobbit extends Characters{
   override var power: Int = 0

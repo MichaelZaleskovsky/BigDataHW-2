@@ -1,9 +1,9 @@
-package start.heroes
+package homework2.heroes
 
-import start.traits.Characters
+import homework2.traits.Characters
 
 import scala.util.Random
-import start.implicits.Skills._
+import homework2.implicits.Skills._
 
 class King extends Characters {
   override var power: Int = Random.between(5, 16)

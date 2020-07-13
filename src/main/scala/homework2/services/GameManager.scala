@@ -1,7 +1,7 @@
-package start.services
+package homework2.services
 
-import start.heroes.Hobbit
-import start.traits.Characters
+import homework2.heroes.Hobbit
+import homework2.traits.Characters
 
 object GameManager {
   def fight(h1: Characters, h2: Characters): Unit = {

@@ -1,7 +1,7 @@
-package start.services
+package homework2.services
 
 import org.reflections.Reflections
-import start.traits.Characters
+import homework2.traits.Characters
 
 import scala.jdk.CollectionConverters._
 import scala.util.Random

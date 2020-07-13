@@ -1,6 +1,6 @@
-package start.implicits
+package homework2.implicits
 
-import start.traits.Characters
+import homework2.traits.Characters
 
 import scala.util.Random
 
